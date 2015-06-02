@@ -1,7 +1,7 @@
 {
   "name": "Play Station",
   "description": "Blog blog blog",
-  "icons": {"128": "http://megaicons.net/static/img/icons_sizes/258/1339/128/logo-icon.png"},
+  "icons": {"128": ""},
   "version": "0.1",
   "launch_path": "/index.html",
   "developer": {
