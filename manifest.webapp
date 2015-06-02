@@ -1,0 +1,11 @@
+{
+  "name": "Hello world",
+  "description": "Blog hola mundo",
+  "launch_path": "/index.html",
+  "icons": { "128": "/img/icon-128.jpeg"},
+  "version": "0.1",
+  "developer": {
+    "name": "Jean y Jaime",
+    "url": "http://JAlexL07.github.io"
+  }
+}
