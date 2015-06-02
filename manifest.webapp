@@ -2,7 +2,7 @@
   "name": "Hello world",
   "description": "Blog hola mundo",
   "launch_path": "/index.html",
-  "icons": { "128": "/Imágenes/icon-128.jpeg"},
+  "icons": { "128": "http://www.fancyicons.com/free-icons/119/game-emulator/png/128/sony_playstation_blue_128.png"},
   "version": "0.1",
   "developer": {
     "name": "Jean y Jaime",
