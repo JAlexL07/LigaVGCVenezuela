@@ -4,16 +4,16 @@
 
 1 | 2 | 3 | 4 | 5
 :---: | :---: | :---: | :---: | :---:
-![Rinconada Racers][img] | ![Mega Meta Mercenaries][img] | ![Araquanid Shot][img] | ![Televen Illusion][img] | ![Broken Riders][img]
-![Secta Palossand][img] | ![Orangurus Council][img] | ![Destiel Gaming][img] | ![Catatumbos Lake Rage][img] | ![Full Breakers][img]
+![Rinconada Racers][rr] | ![Mega Meta Mercenaries][mmm] | ![Araquanid Shot][as] | ![Televen Illusion][ti] | ![Broken Riders][br]
+![Secta Palossand][sp] | ![Orangurus Council][oc] | ![Destiel Gaming][dg] | ![Catatumbos Lake Rage][clr] | ![Full Breakers][fb]
 
-[img]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/rr.png "Rinconada Racers"
-[img]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/mmm.png "Mega Meta Mercenaries"
-[img]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/as.png "Araquanid Shot"
-[img]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/ti.png "Televen Illusion"
-[img]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/br.png "Broken Riders"
-[img]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/sp.png "Secta Palossand"
-[img]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/oc.png "Orangurus Council"
-[img]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/dg.png "Destiel Gaming"
-[img]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/clr.png "Catatumbos Lake Rage"
-[img]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/fb.png "Full Breakers"
+[rr]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/rr.png "Rinconada Racers"
+[mmm]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/mmm.png "Mega Meta Mercenaries"
+[as]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/as.png "Araquanid Shot"
+[ti]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/ti.png "Televen Illusion"
+[br]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/br.png "Broken Riders"
+[sp]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/sp.png "Secta Palossand"
+[oc]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/oc.png "Orangurus Council"
+[dg]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/dg.png "Destiel Gaming"
+[clr]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/clr.png "Catatumbos Lake Rage"
+[fb]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/fb.png "Full Breakers"
