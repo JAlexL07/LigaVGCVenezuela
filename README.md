@@ -11,14 +11,14 @@
 
 ## page under construction
 
-[rr]: https://github.com/JAlexL07/JAlexL07.github.io/master/images/rr.png "Rinconada Racers"
-[mmm]: https://github.com/JAlexL07/JAlexL07.github.io/master/images/mmm.png "Mega Meta Mercenaries"
-[as]: https://github.com/JAlexL07/JAlexL07.github.io/master/images/as.png "Araquanid Shot"
-[ti]: https://github.com/JAlexL07/JAlexL07.github.io/master/images/ti.png "Televen Illusion"
-[br]: https://github.com/JAlexL07/JAlexL07.github.io/master/images/br.png "Broken Riders"
-[sp]: https://github.com/JAlexL07/JAlexL07.github.io/master/images/sp.png "Secta Palossand"
-[oc]: https://github.com/JAlexL07/JAlexL07.github.io/master/images/oc.png "Orangurus Council"
-[dg]: https://github.com/JAlexL07/JAlexL07.github.io/master/images/dg.png "Destiel Gaming"
-[clr]: https://github.com/JAlexL07/JAlexL07.github.io/master/images/clr.png "Catatumbos Lake Rage"
-[fb]: https://github.com/JAlexL07/JAlexL07.github.io/master/images/fb.png "Full Breakers"
+[rr]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/rr.png "Rinconada Racers"
+[mmm]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/mmm.png "Mega Meta Mercenaries"
+[as]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/as.png "Araquanid Shot"
+[ti]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/ti.png "Televen Illusion"
+[br]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/br.png "Broken Riders"
+[sp]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/sp.png "Secta Palossand"
+[oc]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/oc.png "Orangurus Council"
+[dg]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/dg.png "Destiel Gaming"
+[clr]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/clr.png "Catatumbos Lake Rage"
+[fb]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/fb.png "Full Breakers"
 
