@@ -1,6 +1,6 @@
-# [Liga Pokémon Venezolana de VGC](http://jalexl07.github.io/ "Home")
+# Liga Pokémon Venezolana de VGC
 
-| | | Posiciones | | |
+| | | Standings | | |
 :---: | :---: | :---: | :---: | :---:
 1 | 2 | 3 | 4 | 5
 ![Rinconada Racers][rr] | ![Mega Meta Mercenaries][mmm] | ![Araquanid Shot][as] | ![Televen Illusion][ti] | ![Broken Riders][br]
@@ -8,6 +8,7 @@
 ![Secta Palossand][sp] | ![Orangurus Council][oc] | ![Destiel Gaming][dg] | ![Catatumbos Lake Rage][clr] | ![Full Breakers][fb]
 
 ## page under construction
+###### [Link to this page!](http://jalexl07.github.io/ "Home")
 
 [rr]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/rr.png "Rinconada Racers"
 [mmm]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/mmm.png "Mega Meta Mercenaries"
