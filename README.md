@@ -1,6 +1,4 @@
-###### [Link to this page!](http://jalexl07.github.io/ "Home")
-
-# Liga Pokémon Venezolana de VGC
+# [Liga Pokémon Venezolana de VGC](http://jalexl07.github.io/ "Home")
 
 | | | Posiciones | | |
 :---: | :---: | :---: | :---: | :---:
