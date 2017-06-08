@@ -2,7 +2,7 @@
 
 ## A webpage under construction
 
-| Posiciones |||||
+Posiciones 
 :---: | :---: | :---: | :---: | :---:
 1 | 2 | 3 | 4 | 5
 ![Rinconada Racers][rr] | ![Mega Meta Mercenaries][mmm] | ![Araquanid Shot][as] | ![Televen Illusion][ti] | ![Broken Riders][br]
