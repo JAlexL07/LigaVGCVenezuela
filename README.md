@@ -3,7 +3,7 @@
 | | | Standings | | |
 :---: | :---: | :---: | :---: | :---:
 1 | 2 | 3 | 4 | 5
-![Rinconada Racers][rr] | ![Mega Meta Mercenaries][mmm] | ![Araquanid Shot][as] | ![Televen Illusion][ti] | ![Broken Riders][br]
+[![Rinconada Racers][rr]](https://jalexl07.github.io/RinconadaRacers/) | ![Mega Meta Mercenaries][mmm] | ![Araquanid Shot][as] | ![Televen Illusion][ti] | ![Broken Riders][br]
 6 | 7 | 8 | 9 | 10
 ![Secta Palossand][sp] | ![Orangurus Council][oc] | ![Destiel Gaming][dg] | ![Catatumbos Lake Rage][clr] | ![Full Breakers][fb]
 
