@@ -1,6 +1,6 @@
-# JAlexL07.github.io
+###### [Link to this page!](http://jalexl07.github.io/ "Home")
 
-## A webpage under construction
+# Liga Pokémon Venezolana de VGC
 
 | | | Posiciones | | |
 :---: | :---: | :---: | :---: | :---:
@@ -9,7 +9,7 @@
 6 | 7 | 8 | 9 | 10
 ![Secta Palossand][sp] | ![Orangurus Council][oc] | ![Destiel Gaming][dg] | ![Catatumbos Lake Rage][clr] | ![Full Breakers][fb]
 
-[Link to this page!]()
+## page under construction
 
 [rr]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/rr.png "Rinconada Racers"
 [mmm]: https://github.com/JAlexL07/JAlexL07.github.io/blob/master/images/mmm.png "Mega Meta Mercenaries"
