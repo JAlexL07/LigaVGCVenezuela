@@ -11,7 +11,7 @@
 
 ## page under construction
 
-[rr]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/rr.png "Rinconada Racers"
+[rr]: https://raw.githubusercontent.com/JAlexL07/JAlexL07.github.io/master/images/rr.png "Rinconada Racers"
 [mmm]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/mmm.png "Mega Meta Mercenaries"
 [as]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/as.png "Araquanid Shot"
 [ti]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/ti.png "Televen Illusion"
