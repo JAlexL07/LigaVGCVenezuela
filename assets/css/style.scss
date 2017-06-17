@@ -11,6 +11,6 @@ table {
     border-collapse: collapse;
 }
 
-.main-content table td {
-    border: 1px solid black;
+.main-content table th, .main-content table td {
+    border: 1px solid #D3D3D3;
 }
