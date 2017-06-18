@@ -13,14 +13,14 @@
 
 ###### [Link to this page!](https://jalexl07.github.io/ "Home")
 
-[rr]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/originals/rr.png "Rinconada Racers"
-[mmm]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/originals/mmm.png "Mega Meta Mercenaries"
-[as]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/originals/as.png "Araquanid Shot"
-[ti]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/originals/ti.png "Televen Illusion"
-[br]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/originals/br.png "Broken Riders"
-[sp]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/originals/sp.png "Secta Palossand"
-[oc]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/originals/oc.png "Orangurus Council"
-[dg]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/originals/dg.png "Destiel Gaming"
-[clr]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/originals/clr.png "Catatumbos Lake Rage"
-[fb]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/originals/fb.png "Full Breakers"
+[rr]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/rr.png "Rinconada Racers"
+[mmm]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/mmm.png "Mega Meta Mercenaries"
+[as]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/as.png "Araquanid Shot"
+[ti]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/ti.png "Televen Illusion"
+[br]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/br.png "Broken Riders"
+[sp]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/sp.png "Secta Palossand"
+[oc]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/oc.png "Orangurus Council"
+[dg]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/dg.png "Destiel Gaming"
+[clr]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/clr.png "Catatumbos Lake Rage"
+[fb]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/fb.png "Full Breakers"
 
