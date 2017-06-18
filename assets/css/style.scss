@@ -13,7 +13,10 @@ table {
 }
 
 .main-content table th {
+    border-top-style: hidden;
+    border-right-style: hidden;
     border-bottom: 1px solid #D3D3D3;
+    border-left-style: hidden;
 }
 
 .main-content table td {
