@@ -30,3 +30,33 @@ table {
     font-style: italic;
     color: #8B4513;
 }
+
+h5 a:link, h5 a:visited{
+    background-color: #FF0000;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+}
+
+h5 a:hover, h5 a:active {
+    background-color: #FFDF00;
+    border-radius: 25px;
+}
+
+h2 a:link, h2 a:visited{
+    background-color: #FFDF00;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+}
+
+h2 a:hover, h2 a:active {
+    background-color: #FF0000;
+    border-radius: 25px;
+}
