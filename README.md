@@ -7,8 +7,9 @@
 6 | 7 | 8 | 9 | 10
 ![Secta Palossand][sp] | ![Orangurus Council][oc] | ![Destiel Gaming][dg] | ![Catatumbos Lake Rage][clr] | ![Full Breakers][fb]
 
-## page under construction
-###### [Link to this page!](http://jalexl07.github.io/ "Home")
+## [Ronda 1] (https://jalexl07.github.io/Ronda1/ "Ronda 1")
+
+###### [Link to this page!](https://jalexl07.github.io/ "Home")
 
 [rr]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/rr.png "Rinconada Racers"
 [mmm]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/mmm.png "Mega Meta Mercenaries"
