@@ -31,21 +31,6 @@ table {
     color: #8B4513;
 }
 
-h6 a:link, h6 a:visited{
-    background-color: #FF0000;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    border-radius: 25px;
-}
-
-h6 a:hover, h6 a:active {
-    background-color: #FFDF00;
-    border-radius: 25px;
-}
-
 h3 a:link, h3 a:visited{
     background-color: #FFDF00;
     color: white;
@@ -57,6 +42,21 @@ h3 a:link, h3 a:visited{
 }
 
 h3 a:hover, h3 a:active {
+    background-color: #0000CD;
+    border-radius: 25px;
+}
+
+h6 a:link, h6 a:visited{
+    background-color: #0000CD;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+}
+
+h6 a:hover, h6 a:active {
     background-color: #FF0000;
     border-radius: 25px;
 }
