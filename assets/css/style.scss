@@ -31,7 +31,7 @@ table {
     color: #8B4513;
 }
 
-h3 a:link, h3 a:visited{
+h3 a:link, h3 a:visited {
     background-color: #FFDF00;
     color: white;
     padding: 14px 25px;
@@ -46,7 +46,7 @@ h3 a:hover, h3 a:active {
     border-radius: 25px;
 }
 
-h6 a:link, h6 a:visited{
+h6 a:link, h6 a:visited {
     background-color: #0000CD;
     color: white;
     padding: 14px 25px;
@@ -59,4 +59,9 @@ h6 a:link, h6 a:visited{
 h6 a:hover, h6 a:active {
     background-color: #FF0000;
     border-radius: 25px;
+}
+
+.main-content table td img {
+    width: 75%;
+    height: 75%;
 }
