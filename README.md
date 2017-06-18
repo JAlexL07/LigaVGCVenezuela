@@ -8,6 +8,7 @@
 ![Secta Palossand][sp] | ![Orangurus Council][oc] | ![Destiel Gaming][dg] | ![Catatumbos Lake Rage][clr] | ![Full Breakers][fb]
 
 ### [Ronda 1](https://jalexl07.github.io/Ronda1/ "Ronda 1")
+### [Ronda 2](https://jalexl07.github.io/Ronda2/ "Ronda 2")
 
 ###### [Link to this page!](https://jalexl07.github.io/ "Home")
 
