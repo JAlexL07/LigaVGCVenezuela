@@ -2,10 +2,10 @@
 
 | | | Standings* | | |
 :---: | :---: | :---: | :---: | :---:
-1 (6 / 13) | 2 (6 / 10) | 3 (4 / 6) | 4 (4 / 4) | 5 (3 / -3)
-![Rinconada Racers][rr] | ![Mega Meta Mercenaries][mmm] | ![Araquanid Shot][as] | ![Televen Illusion][ti] | ![Broken Riders][br]
-6 (3 / -5) | 7 (1 / -2) | 8 (1 / -6) | 9 (0 / -8) | 10 (0 / -9)
-![Secta Palossand][sp] | ![Orangurus Council][oc] | ![Destiel Gaming][dg] | ![Catatumbos Lake Rage][clr] | ![Full Breakers][fb]
+1 (9 / 12) | 2 (7 / 12) | 3 (6 / 11) | 4 (6 / 2) | 5 (6 / -1)
+![Mega Meta Mercenaries][mmm] | ![Televen Illusion][ti] | ![Rinconada Racers][rr] | ![Secta Palossand][sp] | ![Broken Riders][br]
+6 (4 / -1) | 7 (1 / -2) | 8 (1 / -14) | 9 (0 / -9) | 10 (0 / -10)
+![Araquanid Shot][as] | ![Orangurus Council][oc] | ![Destiel Gaming][dg] | ![Full Breakers][fb] | ![Catatumbos Lake Rage][clr]
 
 ###### Standings hasta la ronda 2*
 
