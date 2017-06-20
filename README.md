@@ -4,10 +4,11 @@
 :---: | :---: | :---: | :---: | :---:
 1 (9 / 12) | 2 (7 / 12) | 3 (6 / 11) | 4 (6 / 2) | 5 (6 / -1)
 ![Mega Meta Mercenaries][mmm] | ![Televen Illusion][ti] | ![Rinconada Racers][rr] | ![Secta Palossand][sp] | ![Broken Riders][br]
-6 (4 / -1) | 7 (1 / -2) | 8 (1 / -14) | 9 (0 / -9) | 10 (0 / -10)
-![Araquanid Shot][as] | ![Orangurus Council][oc] | ![Destiel Gaming][dg] | ![Full Breakers][fb] | ![Catatumbos Lake Rage][clr]
+6 (4 / 3) | 7 (1 / -1) | 8 (1 / -14) | 9 (0 / -10) | 10 (0 / -14)
+![Orangurus Council][oc] | ![Araquanid Shot][as] | ![Destiel Gaming][dg] | ![Catatumbos Lake Rage][clr] | ![Full Breakers][fb]
 
-###### Standings hasta la ronda 2*
+###### Standings hasta la ronda 3*
+###### Faltan 2 combates de Orangurus Council **vs** Full Breakers
 
 ### [Ronda 1](https://jalexl07.github.io/Ronda1/ "Ronda 1")
 ### [Ronda 2](https://jalexl07.github.io/Ronda2/ "Ronda 2")
