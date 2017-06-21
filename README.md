@@ -11,7 +11,7 @@
 
 ### [Ronda 1](https://jalexl07.github.io/Ronda1/ "Ronda 1") [Ronda 2](https://jalexl07.github.io/Ronda2/ "Ronda 2") [Ronda 3](https://jalexl07.github.io/Ronda3/ "Ronda 3") [Ronda 4](https://jalexl07.github.io/Ronda4/ "Ronda 4")
 
-###### [Link to this page!](https://jalexl07.github.io/ "Home")|[![Grupo de Facebook][facebook]](https://www.facebook.com/groups/775600862589935/)
+| ###### [Link to this page!](https://jalexl07.github.io/ "Home") | [![Grupo de Facebook][facebook]](https://www.facebook.com/groups/775600862589935/) |
 :---: | :---:
 
 [rr]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/rr.png "Rinconada Racers"
