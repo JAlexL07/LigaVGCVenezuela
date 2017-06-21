@@ -4,7 +4,7 @@
 :---: | :---: | :---: | :---: | :---:
 1 (9 / 12) | 2 (7 / 12) | 3 (6 / 11) | 4 (6 / 2) | 5 (6 / -1)
 ![Mega Meta Mercenaries][mmm] | ![Televen Illusion][ti] | ![Rinconada Racers][rr] | ![Secta Palossand][sp] | ![Broken Riders][br]
-6 (4 / 4) | 7 (4 / -1) | 8 (1 / -14) | 9 (0 / -10) | 10 (0 / -14)
+6 (4 / 4) | 7 (4 / -1) | 8 (1 / -14) | 9 (0 / -10) | 10 (0 / -15)
 ![Orangurus Council][oc] | ![Araquanid Shot][as] | ![Destiel Gaming][dg] | ![Catatumbos Lake Rage][clr] | ![Full Breakers][fb]
 
 ###### Standings hasta la ronda 3*
