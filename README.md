@@ -9,7 +9,7 @@
 
 ###### Standings hasta la ronda 3*
 
-| Posición | Jugador | País | Equipo | Rondas Jugadas / Ganadas / Diferencia | Rendimiento |
+| Posición | Jugador | País | Equipo | Rondas J / G / Dif | Rendimiento |
 :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 ![Primero][first] | Juan Pablo Naar | ![Colombia][co] | ![Araquanid Shot][as] | 4 / 4 / 6 | 100%
 
