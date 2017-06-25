@@ -9,9 +9,9 @@
 
 ###### Standings hasta la ronda 3*
 
-| Posición | Jugador | País | Equipo | Rondas Jugadas | Rondas Ganadas | Diferencia | Rendimiento |
+| Posición | Jugador | País | Equipo | Rondas Jugadas / Ganadas / Diferencia | Rendimiento |
 :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-![Primero][first] | Juan Pablo Naar | ![Colombia][co] | ![Araquanid Shot][as] | 4 | 4 | 6 | 100%
+![Primero][first] | Juan Pablo Naar | ![Colombia][co] | ![Araquanid Shot][as] | 4 / 4 / 6 | 100%
 
 
 ### [Ronda 1](https://jalexl07.github.io/Ronda1/ "Ronda 1") [Ronda 2](https://jalexl07.github.io/Ronda2/ "Ronda 2") [Ronda 3](https://jalexl07.github.io/Ronda3/ "Ronda 3") [Ronda 4](https://jalexl07.github.io/Ronda4/ "Ronda 4")
