@@ -2,16 +2,12 @@
 
 | | | Standings* | | |
 :---: | :---: | :---: | :---: | :---:
-1 (10 / 12) | 2 (9 / 8) | 3 (8 / 13) | 4 (7 / 10) | 5 (6 / -7)
-![Mega Meta Mercenaries][mmm] | ![Broken Riders][br] | ![Televen Illusion][ti] | ![Rinconada Racers][rr] | ![Secta Palossand][sp]
-6 (5 / -1) | 7 (4 / 2) | 8 (3 / -8) | 9 (3 / -13) | 10 (1 / -16)
-![Araquanid Shot][as] | ![Orangurus Council][oc] | ![Catatumbos Lake Rage][clr] | ![Full Breakers][fb] | ![Destiel Gaming][dg]
+1 (19 / 43) | 2 (15 / 6) | 3 (13 / 17) | 4 (13 / 6) | 5 (12 / 0)
+![Broken Riders][br] | ![Secta Palossand][sp] | ![Rinconada Racers][rr] | ![Mega Meta Mercenaries][mmm] | ![Televen Illusion][ti]
+6 (10 / -22) | 7 (9 / -1) | 8 (8 / -10) | 9 (7 / -5) | 10 (3 / -34)
+![Full Breakers][fb] | ![Araquanid Shot][as] | ![Orangurus Council][oc] | ![Catatumbos Lake Rage][clr] | ![Destiel Gaming][dg]
 
-###### Standings hasta la ronda 4*
-
-### [Ronda 1](https://jalexl07.github.io/Ronda1/ "Ronda 1") [Ronda 2](https://jalexl07.github.io/Ronda2/ "Ronda 2") [Ronda 3](https://jalexl07.github.io/Ronda3/ "Ronda 3") [Ronda 4](https://jalexl07.github.io/Ronda4/ "Ronda 4")
-
-[![Top 10][top]](https://jalexl07.github.io/Top10/ "Top 10")
+###### Standings hasta la ronda 8* (faltan algunos combates de ronda 8)
 
 [![Home][web]](https://jalexl07.github.io/ "Home") [![Grupo de Facebook][facebook]](https://www.facebook.com/groups/775600862589935/ "Grupo de Facebook")
 
@@ -28,4 +24,3 @@
 
 [facebook]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/fb-icon.png "Grupo de Facebook"
 [web]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/web-icon.png "Home"
-[top]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/top10.png "Top 10"
