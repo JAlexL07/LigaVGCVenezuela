@@ -2,7 +2,7 @@
 
 | | | Standings* | | |
 :---: | :---: | :---: | :---: | :---:
-1 (19 / 43) | 2 (15 / 6) | 3 (13 / 17) | 4 (13 / 6) | 5 (12 / 0)
+![1st place][first] (19 / 43) | ![2nd place][second] (15 / 6) | ![3rd place][third] (13 / 17) | 4 (13 / 6) | 5 (12 / 0)
 ![Broken Riders][br] | ![Secta Palossand][sp] | ![Rinconada Racers][rr] | ![Mega Meta Mercenaries][mmm] | ![Televen Illusion][ti]
 6 (10 / -22) | 7 (9 / -1) | 8 (8 / -10) | 9 (7 / -5) | 10 (3 / -34)
 ![Full Breakers][fb] | ![Araquanid Shot][as] | ![Orangurus Council][oc] | ![Catatumbos Lake Rage][clr] | ![Destiel Gaming][dg]
@@ -24,3 +24,6 @@
 
 [facebook]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/fb-icon.png "Grupo de Facebook"
 [web]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/web-icon.png "Home"
+[first]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/badge/primero.png "First"
+[second]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/badge/segundo.png "Second"
+[third]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/badge/tercero.png "Third"
