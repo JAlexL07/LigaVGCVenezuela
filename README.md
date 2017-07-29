@@ -24,6 +24,6 @@
 
 [facebook]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/fb-icon.png "Grupo de Facebook"
 [web]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/web-icon.png "Home"
-[first]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/badge/primero.png "First"
-[second]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/badge/segundo.png "Second"
-[third]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/badge/tercero.png "Third"
+[first]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/badge/primero1.png "First"
+[second]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/badge/segundo1.png "Second"
+[third]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/badge/tercero1.png "Third"
