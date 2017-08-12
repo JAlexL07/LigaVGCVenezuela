@@ -7,7 +7,7 @@
 6 (11 / -13) | 7 (10 / -5) | 8 (9 / -2) | 9 (9 / -10) | 10 (3 / -37)
 ![Full Breakers][fb] | ![Araquanid Shot][as] | ![Catatumbos Lake Rage][clr] | ![Orangurus Council][oc] | ![Destiel Gaming][dg]
 
-###### Standings hasta la ronda 8* (faltan algunos combates de ronda 8)
+###### Standings hasta la ronda 9* (faltan algunos combates de ronda 9)
 
 [![Home][web]](https://jalexl07.github.io/ "Home") [![Grupo de Facebook][facebook]](https://www.facebook.com/groups/775600862589935/ "Grupo de Facebook")
 
