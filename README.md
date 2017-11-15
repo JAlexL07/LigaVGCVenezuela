@@ -1,13 +1,13 @@
 # Liga Pokémon Venezolana de VGC
 
-| | | Standings* | | |
+| | | Standings | | |
 :---: | :---: | :---: | :---: | :---:
-![1st place][first] (20 / 41) | ![2nd place][second] (16 / 9) | ![3rd place][third] (14 / 16) | 4 (14 / 1) | 5 (13 / 0)
+![1st place][first] (22 / 45) | ![2nd place][second] (16 / 9) | ![3rd place][third] (14 / 16) | 4 (14 / 1) | 5 (13 / 0)
 ![Broken Riders][br] | ![Mega Meta Mercenaries][mmm] | ![Rinconada Racers][rr] | ![Secta Palossand][sp] | ![Televen Illusion][ti]
-6 (11 / -13) | 7 (10 / -5) | 8 (9 / -2) | 9 (9 / -10) | 10 (3 / -37)
-![Full Breakers][fb] | ![Araquanid Shot][as] | ![Catatumbos Lake Rage][clr] | ![Orangurus Council][oc] | ![Destiel Gaming][dg]
+6 (11 / -13) | 7 (9 / -2) | 8 (9 / -9) | 9 (9 / -10) | 10 (3 / -37)
+![Full Breakers][fb] | ![Catatumbos Lake Rage][clr] | ![Araquanid Shot][as] | ![Orangurus Council][oc] | ![Destiel Gaming][dg]
 
-###### Standings hasta la ronda 9* (faltan algunos combates de ronda 9)
+###### Standings finales
 
 [![Home][web]](https://jalexl07.github.io/ "Home") [![Grupo de Facebook][facebook]](https://www.facebook.com/groups/775600862589935/ "Grupo de Facebook")
 
